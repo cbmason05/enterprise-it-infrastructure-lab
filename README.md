@@ -1,4 +1,4 @@
-# Mason Technologies — Enterprise IT Infrastructure Lab
+# Enterprise IT Infrastructure Lab
 
 ### Windows Server | Active Directory | Networking | Systems Administration | Azure Cloud
 
